@@ -18,5 +18,5 @@ dynamic = ["dependencies"]
 dependencies = {file = ["requirements.txt"]}
 
 [tool.setuptools.packages.find]
-include = ["meta-webhooks-models*"]
+include = ["metawebhooksmodels*"]
 exclude = ["res", "venv", ".venv"]
