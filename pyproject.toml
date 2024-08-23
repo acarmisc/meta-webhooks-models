@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "meta-webhooks-models"
-version = "0.0.1"
+version = "0.0.2"
 description = "Models to handling Meta Webhook payloads"
 readme = "README.md"
 authors = [{ name = "Andrea Carmisciano", email = "andrea.carmisciano@gmail.com" }]
